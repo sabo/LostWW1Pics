@@ -1,3 +1,4 @@
-secrets.py
+secret_credentials.py
 # block folder with original images too
 atlantic-ww1/
+__pycache__/
