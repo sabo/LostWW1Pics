@@ -31,6 +31,7 @@ This bot takes permissively-licensed pictures taken during World War One and the
     that. I settled on using photos from World War One because, according to
     [Wikipedia](https://en.wikipedia.org/wiki/War_photography#20th_century):
     > World War I was one of the first conflicts during which cameras were small enough to be carried on one's person.
+    
     and, therefore, I've got to assume that for every striking photo of young men going
     over the top, there's a box stashed in some attic in Staten Island or whatever labeled
     "Grandpa's War Pix", full of poorly-lit, badly-framed, or otherwise low-quality
