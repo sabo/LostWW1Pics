@@ -8,6 +8,7 @@ Unfortunately, all of the photographs are generally poor.
 
 ### Actual:
 This bot takes permissively-licensed pictures taken during World War One and then does one or a combination of:
+
     * superimposing greyscale pictures of my fingers along the edges.
     * applying a motion blur effect
     * applying a random slight rotation
@@ -36,3 +37,4 @@ This bot takes permissively-licensed pictures taken during World War One and the
     over the top, there's a box stashed in some attic in Staten Island or whatever labeled
     "Grandpa's War Pix", full of poorly-lit, badly-framed, or otherwise low-quality
     pictures.
+* I used a collection of very nice scans from an Atlantic series called [World War I in Photos](https://www.theatlantic.com/projects/world-war-i-in-photos/). They should all be public domain by now, but I also tweet the attribution used in that piece, along with a permalink to the original image, after each tweet.
