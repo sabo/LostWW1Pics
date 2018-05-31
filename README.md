@@ -8,10 +8,9 @@ Unfortunately, all of the photographs are generally poor.
 
 ### Actual:
 This bot takes permissively-licensed pictures taken during World War One and then does one or a combination of:
-
-    * superimposing greyscale pictures of my fingers along the edges.
-    * applying a motion blur effect
-    * applying a random slight rotation
+* superimposing greyscale pictures of my fingers along the edges.
+* applying a motion blur effect
+* applying a random slight rotation
 
 ## Rationale
 
