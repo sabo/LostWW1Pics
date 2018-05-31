@@ -4,11 +4,13 @@
 
 ### Conceptual:
 This bot tweets photographs from a recently uncovered trove of World War One photographs.
-Unfortunately, all of the photographs have the photographer's fingers in frame.
+Unfortunately, all of the photographs are generally poor.
 
 ### Actual:
-This bot takes permissively-licensed pictures taken during World War One and then
-superimposes greyscale pictures of my fingers along the edges.
+This bot takes permissively-licensed pictures taken during World War One and then does one or a combination of:
+    * superimposing greyscale pictures of my fingers along the edges.
+    * applying a motion blur effect
+    * applying a random slight rotation
 
 ## Rationale
 
