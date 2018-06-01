@@ -7,7 +7,7 @@ This bot tweets photographs from a recently uncovered trove of World War One pho
 Unfortunately, all of the photographs are generally poor.
 
 ### Actual:
-This bot takes permissively-licensed pictures taken during World War One and then does one or a combination of:
+This bot takes pictures taken during World War One and then does one or a combination of:
 * superimposing greyscale pictures of my fingers along the edges.
 * applying a motion blur effect
 * applying a random slight rotation
